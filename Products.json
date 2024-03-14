@@ -1,0 +1,27 @@
+[
+  {
+    "productKey": 1,
+    "productName": "Хлеб",
+    "productPrice": 35.5
+  },
+  {
+    "productKey": 6,
+    "productName": "Молоко",
+    "productPrice": 69.900000000000006
+  },
+  {
+    "productKey": 15,
+    "productName": "Сок",
+    "productPrice": 99.700000000000003
+  },
+  {
+    "productKey": 10,
+    "productName": "Вода",
+    "productPrice": 41
+  },
+  {
+    "productKey": 33,
+    "productName": "Шоколад",
+    "productPrice": 119.90000000000001
+  }
+]
